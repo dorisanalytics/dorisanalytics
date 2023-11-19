@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DORISANALYTICS
+- 👋 Hi, I’m DORIS SIMON
 - 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis with Dahel Techies
