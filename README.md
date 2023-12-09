@@ -2,6 +2,7 @@
 - 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis with Dahel Techies
+- Kindly follow me as I share my weekly task on this platform
 - 💞️ I’m looking to collaborate on startup,founders and Business owners
 - 📫 How to reach me on [LINKEDIN](www.linkedin.com/in/simon-doris-51b85b242)
 
